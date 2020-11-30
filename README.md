@@ -26,11 +26,11 @@ a summary of the problem you are solving and the methods you use to solve them.
 
 **Example**
 
-```
-Detection of human trafficking networks from call logs using graph neural networks. We tested (2) methods for identifying networks, ConvGNNs and Graph Autoencoders (GAE)
-```
 
-## Results
+> Detection of human trafficking networks from call logs using graph neural networks. We tested (2) methods for identifying networks, ConvGNNs and Graph Autoencoders (GAE)
+
+
+### Results
 
 The output of your model. This is best presented as a table. The goal here is to allow other researchers to understand this method in comparison with a benchmark test, or to make a quick determination on whether to spend time reviewing your methodology and reproducing your research.
 
@@ -44,36 +44,36 @@ The output of your model. This is best presented as a table. The goal here is to
 
 
 
-## Usage
+### Usage
 Now you can provide detail on the specific layout of your application and any additional detail provided for notebooks and/or the input data.
 
 **Example**
 
-### Installation
+#### Installation
 
 ```
 make install
 ```
 
-### Training the model
+#### Training the model
 
 ```
 python3 src/train.py -d "data/input_file.csv"
 ```
 
-### Running the application
+#### Running the application
 
 ```
 python3 src/run_app.py
 ```
 
-### Testing
+#### Testing
 ```
 make test
 ```
 
 
-## References
+#### References
 
 If you've used any other repos/research papers, reference them here. Your README is not a place to write your research paper, but it is a nice place to highlight the most relevant research
 
