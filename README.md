@@ -79,5 +79,5 @@ If you've used any other repos/research papers, reference them here. Your README
 
 **Example**
 
-[1] Akoglu L, Tong H, Koutra D. Graph based anomaly detection and description: a survey. Data Min Knowl Discov. 2015;29(3):626–88. [link](https://link.springer.com/article/10.1007/s10618-014-0365-y)
-[2] Boccaletti S, Latora V, Moreno Y, Chavez M, Hwang D-U. Complex networks: structure and dynamics. Phys Rep. 2006;424(4–5):175–308. [link](https://www.sciencedirect.com/science/article/abs/pii/S037015730500462X)
+- [1] Akoglu L, Tong H, Koutra D. Graph based anomaly detection and description: a survey. Data Min Knowl Discov. 2015;29(3):626–88. [link](https://link.springer.com/article/10.1007/s10618-014-0365-y)
+- [2] Boccaletti S, Latora V, Moreno Y, Chavez M, Hwang D-U. Complex networks: structure and dynamics. Phys Rep. 2006;424(4–5):175–308. [link](https://www.sciencedirect.com/science/article/abs/pii/S037015730500462X)
