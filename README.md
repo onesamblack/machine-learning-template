@@ -11,6 +11,9 @@ A machine learning project typically flows like this:
 4. You write tests for your application (this goes into `test`)
 5. You may need to deploy your applications to AWS/GCP/Azure, this requires containerization and packaging (`Dockerfile` + `Makefile`)
 
+## Using this template
+This repository is set up as template repository. For instructions on how to create a repo from this template - see this [link](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+
 # Structure of the template
 This template contains a structure for your machine learning projects. The top level is for packaging and your readme. I don't like to have any python source files or test files in the top level of the repo, aside from a `setup.py` if it's relevant, so thats all structured under `src` and `test`. If you're including datafiles, put them in `data`. If you have any notebooks that are relevant to the analysis, put them into `notebooks`. I use a `Makefile` to simplify running tests and commands to package/deploy. Additionally, there's a sample `Dockerfile`. 
 
